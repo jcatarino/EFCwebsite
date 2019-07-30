@@ -74,7 +74,7 @@ a {
     -webkit-box-shadow: none !important;
     box-shadow: none !important; }
   .btn.btn-secondary {
-    background-color: #e6e7e9;
+    background-color: transparent;
     border-color: #e6e7e9;
     color: #000; }
   .btn.btn-sm {
@@ -98,7 +98,7 @@ a {
 .form-control {
   height: 47px; }
   .form-control:active, .form-control:focus {
-    border-color: #f23a2e; }
+    border-color: #2e70b8; }
   .form-control:hover, .form-control:active, .form-control:focus {
     -webkit-box-shadow: none !important;
     box-shadow: none !important; }
@@ -122,7 +122,7 @@ a {
     position: absolute;
     width: 40px;
     height: 2px;
-    background: #f23a2e; }
+    background: #2e70b8; }
   .site-section-heading.text-center:before {
     content: "";
     left: 50%;
@@ -133,7 +133,7 @@ a {
     position: absolute;
     width: 40px;
     height: 2px;
-    background: #f23a2e; }
+    background: #2e70b8; }
 
 .site-footer {
   padding: 4em 0;
@@ -320,7 +320,7 @@ a {
             padding: 5px 20px;
             display: block; }
             .site-navbar .site-navigation .site-menu .has-children .dropdown > li > a:hover {
-              color: #f23a2e; }
+              color: #2e70b8; }
           .site-navbar .site-navigation .site-menu .has-children .dropdown > li.has-children > a:before {
             content: "\e315";
             right: 20px; }
@@ -328,7 +328,7 @@ a {
             left: 100%;
             top: 0; }
           .site-navbar .site-navigation .site-menu .has-children .dropdown > li.has-children:hover > a, .site-navbar .site-navigation .site-menu .has-children .dropdown > li.has-children:active > a, .site-navbar .site-navigation .site-menu .has-children .dropdown > li.has-children:focus > a {
-            color: #f23a2e; }
+            color: #2e70b8; }
       .site-navbar .site-navigation .site-menu .has-children a {
         text-transform: uppercase; }
       .site-navbar .site-navigation .site-menu .has-children:hover > a, .site-navbar .site-navigation .site-menu .has-children:focus > a, .site-navbar .site-navigation .site-menu .has-children:active > a {
@@ -448,12 +448,12 @@ a {
       position: relative;
       color: #212529; }
       .site-mobile-menu .site-nav-wrap a:hover {
-        color: #f23a2e; }
+        color: #2e70b8; }
     .site-mobile-menu .site-nav-wrap li {
       position: relative;
       display: block; }
       .site-mobile-menu .site-nav-wrap li.active > a {
-        color: #f23a2e; }
+        color: #2e70b8; }
     .site-mobile-menu .site-nav-wrap .arrow-collapse {
       position: absolute;
       right: 0px;
@@ -669,7 +669,7 @@ a {
     display: block;
     border-radius: 50%;
     opacity: 1;
-    color: #f23a2e !important; }
+    color: #2e70b8 !important; }
     .site-block-half.site-block-video .image .play-button:hover {
       opacity: 1; }
     .site-block-half.site-block-video .image .play-button > span {
@@ -782,7 +782,7 @@ a {
       -o-transition: .3s all ease;
       transition: .3s all ease; }
     .block-13 .owl-dots .owl-dot.active > span, .block-14 .owl-dots .owl-dot.active > span, .block-15 .owl-dots .owl-dot.active > span {
-      background: #f23a2e; }
+      background: #2e70b8; }
 
 .slide-one-item.home-slider .owl-nav {
   -webkit-transition: .3s all ease-in-out;
@@ -890,7 +890,7 @@ a {
         width: 80px;
         height: 4px;
         margin-top: -4px;
-        background: #f23a2e;
+        background: #2e70b8;
         top: 0; }
       .block-12 .text .text-inner .heading {
         font-size: 20px;
@@ -913,7 +913,7 @@ a {
     display: block;
     border-radius: 50%;
     opacity: 1;
-    color: #f23a2e !important; }
+    color: #2e70b8 !important; }
     .block-16 figure .play-button:hover {
       opacity: 1; }
     .block-16 figure .play-button > span {
@@ -956,7 +956,7 @@ a {
   color: #999999; }
 
 .block-25 ul li a .meta {
-  color: #f23a2e; }
+  color: #2e70b8; }
 
 .block-25 ul li a:hover img {
   opacity: .5; }
@@ -979,7 +979,7 @@ a {
 
 #date-countdown .label {
   font-size: 30px;
-  color: #f23a2e;
+  color: #2e70b8;
   display: block;
   line-height: 1; }
 
@@ -997,7 +997,7 @@ a {
     position: absolute;
     width: 30px;
     height: 30px;
-    background: #f23a2e;
+    background: #2e70b8;
     border-radius: 50%;
     color: #fff; }
     .player .team-number > span {
@@ -1032,7 +1032,7 @@ a {
     border-radius: 50%;
     border: 1px solid #ccc; }
   .site-block-27 ul li.active a, .site-block-27 ul li.active span {
-    background: #f23a2e;
+    background: #2e70b8;
     color: #fff;
     border: 1px solid transparent; }
 
@@ -1101,7 +1101,7 @@ a {
   border-bottom: 2px solid transparent; }
 
 .half-sm:hover .text, .half-sm:focus .text {
-  background: #f23a2e !important;
+  background: #2e70b8 !important;
   color: #fff; }
   .half-sm:hover .text h2, .half-sm:focus .text h2 {
     color: #fff !important; }
@@ -1137,7 +1137,7 @@ a {
       transition: .3s all ease;
       top: 0;
       left: 0;
-      background-color: #f23a2e; }
+      background-color: #2e70b8; }
     .block-37 .image .block-37-overlay {
       z-index: 3;
       position: absolute;
@@ -1179,7 +1179,7 @@ a {
     width: 50px;
     height: 2px;
     bottom: 0;
-    background: #f23a2e;
+    background: #2e70b8;
     left: 0; }
 
 .block-feature.text-center h2:after, .block-feature.text-center .heading:after, .heading-with-border.text-center h2:after, .heading-with-border.text-center .heading:after {
@@ -1231,8 +1231,8 @@ a {
       border-left: 10px solid transparent;
       border-right: 10px solid transparent; }
       .block-schedule .row-wrap > .row:hover {
-        border-left: 10px solid #f23a2e;
-        border-right: 10px solid #f23a2e;
+        border-left: 10px solid #2e70b8;
+        border-right: 10px solid #2e70b8;
         -webkit-transform: scale(1.01);
         -ms-transform: scale(1.01);
         transform: scale(1.01);
@@ -1359,7 +1359,8 @@ a {
   position: relative;
   display: inline-block;
   font-size: 4rem;
-  font-weight: bold; }
+  font-weight: bold;
+  font-family: 'Nunito', sans-serif; }
   @media (max-width: 991.98px) {
     .section-heading h2 {
       font-size: 2.5rem; } }
@@ -1394,9 +1395,9 @@ a {
       -webkit-transition: .3s all ease;
       -o-transition: .3s all ease;
       transition: .3s all ease;
-      background: #f23a2e;
+      background: #2e70b8;
       color: #fff;
-      border: 1px solid #f23a2e; }
+      border: 1px solid #2e70b8; }
     .unit-8 .accordion-item .heading > a[aria-expanded="false"]:before {
       content: "\e313";
       color: #ccc;
